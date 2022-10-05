@@ -1,2 +1,4 @@
 networkx
 pygraphviz
+requests
+json

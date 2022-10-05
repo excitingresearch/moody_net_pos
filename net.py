@@ -1,7 +1,8 @@
 import networkx as nx
 from pygraphviz import *
 import time
-
+import requests
+import json
 
 url = "http://134.122.18.168:2000/getData?amount=50"
 
