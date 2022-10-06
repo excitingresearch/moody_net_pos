@@ -2,7 +2,11 @@
 
 
 ## Install requirements 
-pip install -r req.txt
+
+`apt-get install graphviz`
+`apt-get install graphviz-dev`
+
+`pip install -r req.txt`
 
 
 ## Run
